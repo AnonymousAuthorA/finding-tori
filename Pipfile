@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+panns-inference = "*"
+ipykernel = "*"
+torch = "*"
+torchaudio = "*"
+pandas = "*"
+tqdm = "*"
+wandb = "*"
+omegaconf = "*"
+hydra-core = "*"
+seaborn = "*"
+essentia = "*"
+plotly = "*"
+umap-learn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
+python_full_version = "3.8.10"
