@@ -1,2 +1,3 @@
 contour_csv.tar.gz
 contour_csv/csv/
+*.pyc
